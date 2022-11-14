@@ -233,32 +233,43 @@
                         <!-- To make this form functional, sign up at-->
                         <!-- https://startbootstrap.com/solution/contact-forms-->
                         <!-- to get an API token!-->
-                        <form class="form-subscribe" id="contactFormFooter" data-sb-form-api-token="994ca08b-783d-4111-a63e-0d373d11a285">
-                            <!-- Email address input-->
-                            <div class="row">
-                                <div class="col">
-                                    <input class="form-control form-control-lg" id="emailAddressBelow" type="email" placeholder="Email Address" data-sb-validations="required,email" />
-                                    <div class="invalid-feedback text-white" data-sb-feedback="emailAddressBelow:required">Email Address is required.</div>
-                                    <div class="invalid-feedback text-white" data-sb-feedback="emailAddressBelow:email">Email Address Email is not valid.</div>
-                                </div>
-                                <div class="col-auto"><button class="btn btn-primary btn-lg disabled" id="submitButton" type="submit">Submit</button></div>
-                            </div>
-                            <!-- Submit success message-->
-                            <!---->
-                            <!-- This is what your users will see when the form-->
-                            <!-- has successfully submitted-->
-                            <div class="d-none" id="submitSuccessMessage">
-                                <div class="text-center mb-3">
-                                    <div class="fw-bolder">Form submission successful!</div>
-                                    <p>Thank you for subscribing</p>
-                                    <a class="text-white" href="https://startbootstrap.com/solution/contact-forms">Designed by Marxvim. Visit www.marxvim.com for more info</a>
-                                </div>
-                            </div>
-                            <!-- Submit error message-->
-                            <!---->
-                            <!-- This is what your users will see when there is-->
-                            <!-- an error submitting the form-->
-                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+<!--                        <form class="form-subscribe" id="contactFormFooter" data-sb-form-api-token="994ca08b-783d-4111-a63e-0d373d11a285">-->
+<!--                            &lt;!&ndash; Email address input&ndash;&gt;-->
+<!--                            <div class="row">-->
+<!--                                <div class="col">-->
+<!--                                    <input class="form-control form-control-lg" id="emailAddressBelow" type="email" placeholder="Email Address" data-sb-validations="required,email" />-->
+<!--                                    <div class="invalid-feedback text-white" data-sb-feedback="emailAddressBelow:required">Email Address is required.</div>-->
+<!--                                    <div class="invalid-feedback text-white" data-sb-feedback="emailAddressBelow:email">Email Address Email is not valid.</div>-->
+<!--                                </div>-->
+<!--                                <div class="col-auto"><button class="btn btn-primary btn-lg disabled" id="submitButton" type="submit">Submit</button></div>-->
+<!--                            </div>-->
+<!--                            &lt;!&ndash; Submit success message&ndash;&gt;-->
+<!--                            &lt;!&ndash;&ndash;&gt;-->
+<!--                            &lt;!&ndash; This is what your users will see when the form&ndash;&gt;-->
+<!--                            &lt;!&ndash; has successfully submitted&ndash;&gt;-->
+<!--                            <div class="d-none" id="submitSuccessMessage">-->
+<!--                                <div class="text-center mb-3">-->
+<!--                                    <div class="fw-bolder">Form submission successful!</div>-->
+<!--                                    <p>Thank you for subscribing</p>-->
+<!--                                    <a class="text-white" href="https://startbootstrap.com/solution/contact-forms">Designed by Marxvim. Visit www.marxvim.com for more info</a>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            &lt;!&ndash; Submit error message&ndash;&gt;-->
+<!--                            &lt;!&ndash;&ndash;&gt;-->
+<!--                            &lt;!&ndash; This is what your users will see when there is&ndash;&gt;-->
+<!--                            &lt;!&ndash; an error submitting the form&ndash;&gt;-->
+<!--                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>-->
+<!--                        </form>-->
+                        <form name="contact" method="POST" data-netlify="true">
+                            <p>
+                                <label>Your Name: <input class="form-control form-control-lg" type="text" name="name" /></label>
+                            </p>
+                            <p>
+                                <label>Your Email: <input class="form-control form-control-lg" type="email" name="email" /></label>
+                            </p>
+                            <p>
+                                <button type="submit" >Send</button>
+                            </p>
                         </form>
                     </div>
                 </div>
