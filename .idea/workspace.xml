@@ -5,41 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3279180-cb0d-4925-8fea-71c29c1a9621" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/Benjamin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/charles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ezinma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/isaac.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/jessica.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-showcase-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-showcase-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-showcase-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/ral_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/rsa_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_va.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vb.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vc.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vd.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vd.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_ve.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/si_vg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/testimonials-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/assets/img/ral_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/flabi/Documents/GitHub/scrubIn-lp/v2/assets/img",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/flabi/Documents/GIT/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\flabi\Documents\GitHub\scrubIn-lp\v2\assets\img" />
@@ -87,7 +61,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PleaseRunConfigurationType" factoryName="PleaseRunConfigurationType.Factory" target="//some:target" pleaseArgs="" pleaseRoot="" programArgs="" workingDir="">
+    <configuration default="true" type="PleaseTestConfigurationType" factoryName="PleaseRunConfigurationType.Factory" target="//some:target" pleaseRoot="" pleaseArgs="" tests="">
       <method v="2" />
     </configuration>
   </component>
@@ -109,7 +83,8 @@
       <updated>1711681663530</updated>
       <workItem from="1711681666048" duration="4345000" />
       <workItem from="1712676926705" duration="33000" />
-      <workItem from="1712676978871" duration="6654000" />
+      <workItem from="1712676978871" duration="8633000" />
+      <workItem from="1712775001352" duration="4078000" />
     </task>
     <servers />
   </component>
